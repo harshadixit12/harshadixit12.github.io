@@ -4,30 +4,30 @@ email: harshadixit12@gmail.com
 description: "" #add description
 baseurl: ""
 url: "http://harshadixit12.github.io/"
-title_description: "Undergrad pursuing double major in Mathematics and Electrical and Electronics Engineering"
+title_description: "Software Engineering | Observability | REST APIs"
 title_image: "https://s.gravatar.com/avatar/2d22387f94afafe63f3d13b7233688a1?s=80"
 google_analytics: "UA-149876783-1"
-disqus_account: 
+disqus_account:
 github_repository: https://github.com/harshadixit12/harshadixit12.github.io
 #addthis_id: ra-513c6fa83da6ec67
 post_limit: 15
 
 # Social usernames/URLs
 twitter_username: harshadixit12
-github_username:  harshadixit12
-instagram_username: 
-reddit_username: 
+github_username: harshadixit12
+instagram_username:
+reddit_username:
 linkedin_link: https://in.linkedin.com/in/harsha-dixit-9a285712a
-google_plus_link: 
-stackoverflow_link: 
+google_plus_link:
+stackoverflow_link:
 xing_link:
 facebook_link:
-CV_link : 
+CV_link:
 gmail_link: harshadixit12@gmail.com
 
 # Footer
-footer_left: 
-footer_right: 
+footer_left:
+footer_right:
 
 # Build settings
 markdown: kramdown
