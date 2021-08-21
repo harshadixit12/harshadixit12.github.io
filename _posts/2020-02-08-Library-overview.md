@@ -3,7 +3,7 @@ layout:     post
 title:      Overview of Image processing library
 date:       2020-02-08 14:00:00
 summary:    Explains how the library is structured, and why it has been structured so.
-categories:
+categories: ['Technology']
 thumbnail:
 tags:
  - Image processing

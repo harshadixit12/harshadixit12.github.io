@@ -3,7 +3,7 @@ layout:     post
 title:      Reading run length compressed BMP images
 date:       2019-10-14 08:00:00
 summary:    Explains how to read RLE8 and RLE4 compressed images
-categories: 
+categories: ['Technology']
 thumbnail: 
 tags:
  - 4 bit bmp
