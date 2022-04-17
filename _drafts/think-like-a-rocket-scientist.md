@@ -12,3 +12,12 @@ What is the worst case scenario and how likely is it?
 What is the best case scenario and how likely is it?
 If probability of failure is high, what is the cose of failure? Is it one way door or two way door?
 
+First principles
+We are often constrained by past ways of thinking, and are genetically programmed to follow the herd. While dealing with uncertainty, this is recipe for failure. To think from first principles, we should systematically doubt everything that you can possibly do, until we're left with fundamental truths. We should hack through assumptions - some of which we are not aware we have - until we're left with fundamental components. Some things can hold us back - clinging to our reputation for example which does not let us take risks, however having an appetite for desctruction helps rebuild better.
+
+Useful activity - kill the company exercise. Ex: Why would users choose our competitors?
+
+Some good questions to ask -
+What if this weren't true? Why am I doing it this way, and can I replace it with something better? - Dont come up with more than 1 reason.
+What are the assumptions I'm operating under? How did they come about and are they relevant?
+Am I afraid of making a change?
